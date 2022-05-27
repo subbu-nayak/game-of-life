@@ -1,1 +1,1 @@
-"this is a new diff file" 
+"this is a new line diff line" 
